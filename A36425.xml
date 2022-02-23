@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The [second] co[mming of Our] Lo[rd] dedicate [...] Britt[...] by the La. Eleanor.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36425</idno>
+            <idno type="STC">Wing D2012</idno>
+            <idno type="STC">ESTC R37765</idno>
+            <idno type="EEBO-CITATION">17014847</idno>
+            <idno type="OCLC">ocm 17014847</idno>
+            <idno type="VID">105782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The [second] co[mming of Our] Lo[rd] dedicate [...] Britt[...] by the La. Eleanor.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Interpolations suggested by Wing.</note>
+                  <note>Postscript: [2] p. at end.</note>
+                  <note>Imperfect: pages stained and torn, with loss of print; best copy available for photographing. Bound and filmed with D1998 (The new proclamation, an ansvver to a letter) following.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>With: The new proclamation, in ansvver to a letter. London printed : [s.n.], 1649.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation XI --  Prophecies.</term>
+               <term>Apocalyptic literature.</term>
+               <term>Millennium.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105782:1"/>
+            <pb facs="tcp:105782:1" rendition="simple:additions"/>
+            <p>THE <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> C<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> LO<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> DEDICATE<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> BRITT<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </p>
+            <p>By the <hi>LA: ELEANOR</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:105782:2"/>
+            <pb facs="tcp:105782:2" rendition="simple:additions"/>
+            <head>THE REVEALING OF OVR LORDS ſecond Comming.</head>
+            <head type="sub">
+               <bibl>Revela. XI.</bibl>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>ND to meaſure or give the <hi>meaning of this place of Scrip<g ref="char:EOLhyphen"/>ture,</hi> of age to ſpeake in theſe accompliſhed dayes for it ſelf, a touch whereof ſuffices to be
+<pb n="4" facs="tcp:105782:3"/> given: <hi>So touching this Angel which ſtood and made that ſolemne Oath ſwearing by the maker of all things: That</hi> TIME <hi>ſhould no longer bee;</hi> ſaying, <hi>Ariſe</hi> and meaſure the TEMPLE, <hi>and Them that</hi> worſhip <hi>therein, &amp;c.</hi>
+            </p>
+            <p>Doubtleſſe the ſelfe ſame; beheld by the Prophet DA<g ref="char:EOLhyphen"/>NIEL (12.) <hi>Which ſpeakes to this Evangeliſt, at firſt clothed in Linnon on the waters, and as in his reſurrection raiment then: ſo here in</hi> the Aſcenſions, clothed in a cloud, the Angelicall Robe, gi<g ref="char:EOLhyphen"/>ving <hi>by this</hi> to underſtand, when the riſing from the dead to be <hi>reveald, or times reigne finiſhed, ſo
+<pb n="5" facs="tcp:105782:3"/> commands him to w ite (as it were) what ſhall come to paſse, when the Church ſhall be refined before the end or a reformation, leaving and</hi> caſting out, <hi>the</hi> Court <hi>OF ROME</hi> in thoſe dayes returnd to Heatheniſme, that mother of ignorance tyranni<g ref="char:EOLhyphen"/>zing and treading downe the Church ſtanding out for the truth unto the end, where thoſe <hi>ſacred Witneſſes caſt out for dead, guiltie of the Prophets blood and our Saviours.</hi>
+            </p>
+            <p>Thus ſhewing, when that Eclips paſt thoſe miſts diſpel'd, and afterward preachd the Goſ<g ref="char:EOLhyphen"/>pel when as farre Weſt as Eaſt,
+<pb n="6" facs="tcp:105782:4"/> 
+               <hi>before the evening or ſetting of time, for an infalible Fore-runner of the end of the World come, for which all bidden to watch.</hi> How then it ſhall come to paſſe, In<g ref="char:EOLhyphen"/>formes this Diſciple: This blesſing of Blesſings how ad<g ref="char:EOLhyphen"/>ded to the former, even out of the Scriptures, <hi>the Old and New two Bookes to be interpreted, for our Lords comming revealed, and theſe like as in daies of</hi> Old, <hi>with ſignes and tokens evident to all.</hi>
+            </p>
+            <p>And as here appeares, ſhews then how thoſe new moulded dayes rewarded; oppoſing the Holy Ghoſt, made to waite, They plagued alſo, <hi>fares with
+<pb facs="tcp:105782:4"/> them</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Heavens</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wher ſilenced the Spirit of Pro<g ref="char:EOLhyphen"/>pheſie.</p>
+            <p>As came to paſſe before that deliverance of theirs, out of that Bondage, and before <hi>Bals Preiſts put down, not one eſcaping;</hi> great bleſſings as ſometime ac<g ref="char:EOLhyphen"/>companied with no light cor<g ref="char:EOLhyphen"/>rections: And theſe the ſumme of that Angelicall diſcourſe.</p>
+            <p>So proceeding with the generall Reſurrection, and Aſ<g ref="char:EOLhyphen"/>cenſions
+<pb facs="tcp:105782:5"/> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>oſe bo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one taken up, both</hi> waiting (40.) dayes in the Mount of God: And that dead Souldier revived by a touch of the Prophets Corps, all pro<g ref="char:EOLhyphen"/>phecying to theſe laſt dayes of ſuch diviſion devided like thoſe waters, ſome-time them.</p>
+            <p>
+               <hi>As here the gift of the Holy Ghoſt like</hi> the Cloven tongues in the <hi>ſeventeenth hundred Yeares</hi> under <hi>thoſe Characters</hi> expreſt, (ver. 2.) <hi>And the Holy-Citie
+<pb n="9" facs="tcp:105782:5"/> ſhall They tread under foote</hi> 42. <hi>Moneths:</hi> and ſo again, And I will give <hi>to my two Witneſſes;</hi> and <hi>They ſhall Prophecie a Thou<g ref="char:EOLhyphen"/>ſand two Hundred and ſixty dayes, &amp;c.</hi> (to wit) ſeven Times, ſignified by theſe <hi>Three yeares and halfe,</hi> doubled by Moneths and Dayes: including alſo the VVorlds miſtical VVeeke <hi>Cut Off:</hi>
+            </p>
+            <p>VVhere farther, for make<g ref="char:EOLhyphen"/>ing plaine of Theſe multiplyed rough obſcure places: Con<g ref="char:EOLhyphen"/>cerning how long the <hi>Churches Warfarre, To receive double for all HER</hi> Sinnes: referred unto
+<pb n="10" facs="tcp:105782:6"/> 
+               <hi>TIMES</hi> farwell redoub<g ref="char:EOLhyphen"/>led, as declared alſo to HIS Servant the Prophets; <hi>Daniel</hi> 12.</p>
+            <p>
+               <hi>And from the</hi> Time <hi>that the daily ſhall be taken away, and the abomination that maketh deſolate ſet up;</hi> There ſhall bee a Thouſand two Hundred and Ninty dayes.</p>
+            <p>
+               <hi>Bleſsed is hee that waiteth, and commeth to the Thouſand three Hundred and Thirty five Dayes,</hi> (to wit) as aforeſhewd. Seven times even the Number of reſt, or ſo many yeares, under the reigne of <hi>ANTICHRIST,</hi> till which accompliſhed <hi>Da<g ref="char:EOLhyphen"/>niel
+<pb n="11" facs="tcp:105782:6"/> bidden to be gon, and reſt ſatisfi<g ref="char:EOLhyphen"/>ed, or take his long ſleepe.</hi>
+            </p>
+            <p>A Thouſand ſeven Hun<g ref="char:EOLhyphen"/>dred yeares (as much to ſay) from the time of the laſt Supper given, before HIS <hi>bleſſed Re<g ref="char:EOLhyphen"/>ſurrection day,</hi> (made the <hi>Chur<g ref="char:EOLhyphen"/>ches day of REST,</hi>) Vntill the generall riſing from the dead: <hi>Like the thrice foureteene Genera<g ref="char:EOLhyphen"/>tions: (Mat:</hi> 1.) (or three Peri<g ref="char:EOLhyphen"/>ods,) <hi>each fulfilling</hi> 500. <hi>yeares.</hi> here in like manner given un<g ref="char:EOLhyphen"/>der the <hi>Angels hand</hi> lifted up, teſtifying or proteſting; <hi>A time, and Times and halfe,</hi> (or part) And thus as five Hundred yeares going to a Period of
+<pb n="12" facs="tcp:105782:7"/> TIME, fulfills 1700. yeares, ſo by taking away a <hi>Thouſand, from thoſe Propheticall, two Thou<g ref="char:EOLhyphen"/>ſand ſix Hundred twenty five daies:</hi> Even comes to the <hi>Yeare,</hi> 1625. That unparaleld troubleſome Time, where <hi>he</hi> ſtiled the <hi>great</hi> Prince <hi>MJCHAEL, that ſhall ſtand up:</hi> going before <hi>the generall Reſurrection,</hi> the dead There ſtanding upon their <hi>feet (Daniel</hi> 12.) by that <hi>Arch:</hi> Angels dreadfull <hi>Alarme</hi> a<g ref="char:EOLhyphen"/>wakned. And ſo <hi>Bleſſed is he that comes (and waits to</hi> 1645. <hi>the end:</hi>) And where every word hath its weight, as points at the laſt Centurie to be devi<g ref="char:EOLhyphen"/>ded,
+<pb n="13" facs="tcp:105782:7"/> and the very halfe yeare: So here ſhewes when the <hi>End of time come; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as no great miſse or loſſe of it Where nothing from head to foot, but</hi> Plagues <hi>and</hi> Vlcers, <hi>the Bottomleſſe-pit opend. Hell</hi> LET LOOSE, <hi>How</hi> it ſhall come to paſſe in thoſe days preferring darkeneſſe before light: Theſe things when as againe Propheſied, to <hi>Nati<g ref="char:EOLhyphen"/>ons, People, and Kings,</hi> being come to its <hi>full Time,</hi> even <hi>over<g ref="char:EOLhyphen"/>come and Killed by that ſpirit aſ<g ref="char:EOLhyphen"/>cended out of the Bottomleſse pit, Monſter of Mankind;</hi> The aſcenſions <hi>Enemy,</hi> and the <hi>Re<g ref="char:EOLhyphen"/>ſurrections,</hi> not a little inſenced
+<pb n="14" facs="tcp:105782:8"/> and wyld: whoſe ſentence on Record of old: In this man<g ref="char:EOLhyphen"/>ner. <hi>He muſt be killed</hi> verſe &amp;c. <hi>which offers violence to them from above indued with ſuch power and inſpired.</hi> To be plaine, <hi>He</hi> in the yeare 1633. tranſlated to be Arch-BB. And that ſuffer'd that <hi>Antichriſt;</hi> on a <hi>Friday</hi> which made his laſt Sermon, (witneſſe <hi>Revel.</hi> verſ. 5.) (where our Lord crucified) VVas the very text (as it were) (<hi>Heb.</hi> 12.) <hi>For the joy ſet before him who indured the Croſſe, &amp;c.</hi>
+            </p>
+            <p>But proceeding on with theſe examined witneſſes as for fire proceeding out of their
+<pb n="15" facs="tcp:105782:8"/> mouths, verſe &amp;c. as aluding to the Feaſt time, of the firie tongues ſo ſignifies againe, ful<g ref="char:EOLhyphen"/>filled that of the Prophet <hi>Joel. That on all fleſh he will powre out his ſpirit</hi> (the Gentils alſo) <hi>and his ſons and Hand-maids ſhall prophecie.</hi>
+            </p>
+            <p>And ſo againe for interpre<g ref="char:EOLhyphen"/>ting Scripture, by Scriptures for manifeſtation of the aforeſaid meaſured times, accompliſhing the number of ſeven, <hi>here turn'd</hi> to the Prophet <hi>Zechar.</hi> 4. <hi>Who when by the Angel awakend,</hi> as a man out of his ſleepe, <hi>Saw a Candleſticke, all of Gold with ſeven lamps, &amp; ſeven pipes to the ſeven
+<pb n="16" facs="tcp:105782:9"/> lamps,</hi> two <hi>Olive thereby; empting the Golden Oyle.</hi> Signifying alſo <hi>before</hi> the Riſing from the dead, times myſterie how by the Spi<g ref="char:EOLhyphen"/>rit of prophecie extracted out divine viſion to wit the Pro<g ref="char:EOLhyphen"/>phets aforeſaid or two witneſſes whoſe Bookes that Light ſo hatefull to men: manifeſted with a witneſſe thus.</p>
+            <p>Verſe 8. <hi>And they ſhall ſee their dead bodies three dayes and a halfe lye in the ſtreet of the Great City ſpritually called Sodome and Egypt,</hi> like <hi>Newes</hi> out of date: Caſt about, becauſe <hi>Prophecie</hi> for a time ceaſ'd: And by the <hi>ſpirituall calling, made their Paſ<g ref="char:EOLhyphen"/>time,</hi>
+               <pb n="17" facs="tcp:105782:9"/> as not rare in the laſt dayes ſuch witts or Scoffers, ſo with thoſe tydings of the great day made their ſport And <hi>how</hi> feſtivall times <hi>Eaſter, Witſontyde,</hi> and the reſt ſo<g ref="char:EOLhyphen"/>lemnized in City and Countrey with what doings, <hi>in ſtead of workes of charity and Almes deeds, how ſends preſents one to another, Play-houſes viſited and drinking houſes, halfe the Sabbath day, very Sodome, no other poſſeſt with the ſame ſpirit of blindnes.</hi>
+            </p>
+            <p>And thus here a line and there a line, concerning the Spirit of propheſie to be powr'd out, from yeares diſcending to dayes, (verſe) <hi>And after three dayes and a halfe the Spirit of life from God enterd into them theſe two Prophets, and they ſtood upon their feet, aluding to that, when</hi>
+               <pb n="18" facs="tcp:105782:10"/> they falling dead at the feet of the Angel, the Lord of Sabbaths, <hi>which</hi> were againe rayſed, <hi>Daniel</hi> and <hi>John,</hi> thoſe ſo greatly Beloved, as he <hi>by a touch of the Scepter the ſeven ſtars, &amp;c.</hi>
+            </p>
+            <p>And theſe <hi>Things</hi> like that <hi>doubled</hi> Dream becauſe the things Eſtabliſhed: (<hi>Geneſes</hi> 41.) viſible in our <hi>Horizon</hi> of the ſeven<g ref="char:EOLhyphen"/>tenth Century, wherein held ſuch an <hi>imposſibilitie for Prophets a<g ref="char:EOLhyphen"/>gaine to ariſe before the day of Judge<g ref="char:EOLhyphen"/>ment,</hi> yet ſhall goe on with the meaning alſo, of <hi>that great voice Come up hether.</hi> And they aſcen<g ref="char:EOLhyphen"/>ded in a cloud up, beheld by all <hi>Them,</hi> ſtricken in a moment with no little aſtoniſhment. VVhich referred to your judgements,
+<pb n="19" facs="tcp:105782:10"/> 
+               <hi>whether or no, ſpeakes not to all you the wonderfull worke of God, Great Brit<g ref="char:EOLhyphen"/>taines Parliament voice,</hi> as before <hi>Whitſontyde</hi> preſented was, unto the houſe this very place of Scripture, <hi>even joyning with the Prophets loud voices</hi> as they <hi>Gods kingdome</hi> pro<g ref="char:EOLhyphen"/>claime, ſo ſerves for their thankes<g ref="char:EOLhyphen"/>giving, and the Cities as come to paſſe ſince the laſt aſcenſions feaſt, after that ſad breakefaſt <hi>blow, beſtowed on their enemies unto which Shall add this for another.</hi>
+            </p>
+            <p>Verſe 13. <hi>And the ſame houre</hi> (as much to ſay,) at <hi>tenne</hi> in the morning, ſignifying alſo the ſame time when gathered to<g ref="char:EOLhyphen"/>gether thoſe ſeverall Nations, (<hi>Acts</hi> 2.) Stranger of <hi>Rome. Jewes</hi> and <hi>Proſelites:</hi> when ſuch a noiſe, wher
+<pb n="20" facs="tcp:105782:11"/> 
+               <hi>ſhewes</hi> moreover within <hi>an houres ſpace,</hi> how many ſlain, and ſo ma<g ref="char:EOLhyphen"/>ny thouſands taken, <hi>and</hi> a remnant that <hi>tooke the Covenant, or gave glory to God. Alſo the liſt of Names returnd as in the Originall ſignifying, (names of men) Mens names all:</hi> where alſo thoſe wrathfull <hi>Iriſh Et Jratae ſunt gentes &amp; advenit ira tua:</hi> as at the day of <hi>Judgement</hi> for them, no <hi>Quarter;</hi> by Their diſpairing of <hi>mercy,</hi> ſetting their <hi>Names too for the riſing of the dead to be revealed before the END</hi> to theſe Kingdomes. And againe, as ſerves for the <hi>houre of the day</hi> (verſ. 13.) ſo beares date in the yeare, <hi>One thouſand ſeven Hundred;</hi> beſide Seven hundred ſlaine expreſt: <hi>ſhewing the ſecond woe paſt is, behold the third WOE comes
+<pb n="21" facs="tcp:105782:11"/> quickly,</hi> Namely about <hi>Michaels feaſt:</hi> The ſeventh <hi>Angel or laſt Trumpet</hi> gives warning of it; So farthermore for thoſe great victo<g ref="char:EOLhyphen"/>rious Voices, where <hi>ſuch Tyra<g ref="char:EOLhyphen"/>nicall power reſigned,</hi> for which the rejoycing <hi>Elders</hi> 24 for ever<g ref="char:EOLhyphen"/>more ſiting; Not more extoling GODS power herein, Then the <hi>NATIONS</hi> fil'd with Envy, to ſee the Crown and Honour of the day Conferred on ſuch deri<g ref="char:EOLhyphen"/>ded heretofore ſo <hi>much</hi> contemn'd: <hi>As not by might,</hi> (or Army) <hi>nor by power; But by my</hi> Spirit, <hi>ſaith the Lord of hoſts:</hi> And for the Tem<g ref="char:EOLhyphen"/>ple opened thoſe heavenly gates, or two Olive trees, to wit <hi>(verſ.)</hi> with the miſtery made knowne of <hi>Time meaſured by his</hi> Reed, or ſharp
+<pb n="22" facs="tcp:105782:12"/> Rod given him to meaſure with: Thus much ſuffices. And for <hi>ſuch</hi> Stormes and Out-cryes, <hi>where</hi> the tree of <hi>Life offered to every one:</hi> Not unlike the tree of <hi>Knowledge,</hi> at firſt pleaſant to Him, afterward all as bitter: Nevertheleſſe when the houre paſt, like her Travell the Mother of all <hi>living,</hi> rememberd not at all. And <hi>ſo</hi> farre for the <hi>Cauſe ſet forth of</hi> Canterburys <hi>ſuffering: And their dead</hi> Bodies, <hi>not ſuffered to be B<g ref="char:V">Ʋ</g>RYD,</hi> (expos'd to the veiw) <hi>whoſe ſeven</hi> Yeares <hi>compleat before going into priſon:</hi> The ex<g ref="char:EOLhyphen"/>preſſe EPYTOMIE <hi>of An<g ref="char:EOLhyphen"/>tichriſts</hi> Kingdome in the 1700. yeare, <hi>alſo deſtroyed to</hi> bee <hi>or Cut off, for Ever.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:105782:12"/>
+            <head>Poſtſcript.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O then what differnce, between them obedient to the Divell, that inquire of evil ſpirits &amp; others diſobedient to the ſpirit of God, <hi>or</hi> to whom his command peremtory: Yet like the deafe Adar, ſtop the Eare, much like the caſe of thos two Sons in the <hi>Goſpel,</hi> or <hi>Brothers,</hi> the one where gives <hi>ſuch</hi> an undutifull <hi>anſwer,</hi> the other <hi>no<g ref="char:EOLhyphen"/>thing but faire words: who</hi> as though Antiquity were a <hi>plea</hi> for error, or cuſtome any excuſe for any thing, by his Apoſtles prohibited.</p>
+            <p>As in that inacted by them, againſt eating blood <hi>(So well Obſerved,) Acts 15: verſe 20. Alſo, verſe 30. Saying;</hi> for ſeemed good to the <hi>HOLY GHOST</hi> and to us to lay no greater burthen upon you then theſe neceſſary things, that ye abſtaine from meats offered to Jdols, and from blood and from ſtrangld meat, and from fornication, from which things if yee keep your ſelves yee ſhall well, fare yee well.</p>
+            <p>And againe, <hi>cap. 21. verſe 25.</hi> We have written and concluded, &amp;c ſave only that ye keep your ſelves from things offered to Jdols. And from blood and ſtrangld meat and from fornication, Where although diſburthened of all the reſt, but blood the life of eve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:105782:13"/> thing. Which like the forbidden tree or the tree of life in the midſt of Paradice ſtanding, as this be<g ref="char:EOLhyphen"/>tween a branch of the firſt and ſecond table, after<g ref="char:EOLhyphen"/>ward notwithſtanding ready dreſt at <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ays The Apoſtles Ordinances nothing made of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and not only theſe freely digeſted but libels publiſhed by au<g ref="char:EOLhyphen"/>thority againſt holy <hi>authority,</hi> too <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſome on <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſides as that unſufferable fable <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>led a re<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of the two Witneſſes their coming down from heaven <hi>And</hi> fighting with Antichriſt, alſo for another a late preface with that bold univerſall, that all ſpirits which do ſuffer themſelves to be inquired at are evil ſpirits, and therefore of the Divill, as much to ſay or afirm the Holy Ghoſt cannot do what he pleaſes, or that any thing is imposſible or too hard for God to do.</p>
+            <p>And for their Philoſophie as meane &amp; weake as their Theologie behold his produced Booke. <hi>De Magia Naturali,</hi> apparent whereby her ſpirit ab<g ref="char:EOLhyphen"/>ſent from the body, that for ſo long might be awakend by no meanes. So to him who is, <hi>Alpha</hi> and <hi>Omega</hi> both: Jn whom conſiſts all and ſome, both the only affirmative and negative voice; be all praiſe. <hi>Amen.</hi>
+            </p>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:105782:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
